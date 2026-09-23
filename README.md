@@ -11,7 +11,7 @@ class Programmer:
     def __init__(self):
         self.name = "TacticalIndex"
         self.role = "Programmer for Pleasure"
-        self.hobby = "General Amateur Radio Operator"
+        self.hobby = "General Class Amateur Radio Operator"
 
     def say_hello(self):
         print("Thanks for dropping by! Hope you like *some* of my work")
