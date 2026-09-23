@@ -1,6 +1,6 @@
 <h2>Howdy! I'm tacticalIndex</h2>
 <img align='right' src="https://media.giphy.com/media/fe47Uzfe1NK5cBoE12/giphy.gif" width=380 height=215>
-<p><em>Website Manager @ Faction Hub News</br>Bot Owner/Developer for SCiPNET</em></p>
+<p><em>Website Manager @ Official Faction Hub News</br>Bot Owner/Developer for SCiPNET</em></p>
 
 ```python
 #~/usr/bin/python
